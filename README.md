@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a undergraduate, focus on NLP related task.
+- 🔭 I’m an undergraduate, focus on NLP related task.
 - 🌱 I’m currently learning cutting-edge NLP techniques and their applications on KBQA.
 - 📫 Feel free to contact me at: 824449964@qq.com
