@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m an undergraduate, focus on NLP related task.
+- 🔭 I’m an undergraduate and current interest is in NLP and how to apply it in graph structure data.
 - 🌱 I’m currently learning cutting-edge NLP techniques and their applications on KBQA.
+- ⚡ I'm going to CUHK this summer to do my research with its amazing database group.
 - 📫 Feel free to contact me at: 824449964@qq.com
