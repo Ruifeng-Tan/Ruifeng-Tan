@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m an undergraduate and current interest is in NLP and how to apply it in graph structure data.
 - 🌱 I’m currently learning cutting-edge NLP techniques and their applications on KBQA.
-- ⚡ I'm going to CUHK this summer to do my research with its amazing database group.
+- ⚡ I'm going to CUHK this summer to do my research with its amazing [database group](http://dbgroup.se.cuhk.edu.hk/people).
 - 📫 Feel free to contact me at: 824449964@qq.com
