@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m an undergraduate and current interest is in deep learning and its application in graph structued data.
-- 🌱 I’m currently learning cutting-edge NLP techniques and their applications on KBQA.
+- 🌱 I’m currently learning cutting-edge graph data mining techniques and their applications.
 - ⚡ I'm going to CUHK this summer to do my research with its amazing [database group](http://dbgroup.se.cuhk.edu.hk/people).
 - 📫 Feel free to contact me at: 824449964@qq.com
