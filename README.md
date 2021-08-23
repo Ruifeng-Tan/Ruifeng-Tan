@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m an undergraduate and current interest is in deep learning and its application in graph-structued data.
-- ⚡ I'm working on distributed database in the [database group](http://dbgroup.se.cuhk.edu.hk/people) of CUHK.
+- 🔭 I’m an undergraduate and current interest is in NLP and data mining.
 - 📫 Feel free to contact me at: ruifeng_tan@whu.edu.cn
