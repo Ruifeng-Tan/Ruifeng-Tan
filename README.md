@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Current interest is in NLP and data mining.
+- 🔭 My current interest is in NLP and data mining.
 - 📫 Feel free to contact me at: ruifeng_tan@whu.edu.cn
