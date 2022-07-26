@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 My current interest is in NLP and data mining.
-- 📫 Feel free to contact me at: ruifeng_tan@whu.edu.cn
+- 🔭 My current interest is in battery informatics and material informatics.
+- 📫 Feel free to contact me at: ruifeng_tan@whu.edu.cn.
