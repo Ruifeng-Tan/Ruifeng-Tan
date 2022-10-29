@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 My current interest is in battery informatics and material informatics.
-- 📫 Feel free to contact me at: ruifeng_tan@whu.edu.cn.
+- 📫 Feel free to contact me at: rtan474@connect.hkust-gz.edu.cn.
