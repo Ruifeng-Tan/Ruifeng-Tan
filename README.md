@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 My current interest is in battery informatics and material informatics.
+- 🔭 My current interest is in battery informatics.
 - 📫 Feel free to contact me at: rtan474@connect.hkust-gz.edu.cn.
