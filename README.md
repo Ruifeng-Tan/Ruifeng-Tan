@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruifeng-Tan&layout=compact)](https://github.com/Ruifeng-Tan/github-readme-stats)
-![Ruifeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruifeng-Tan&show_icons=true&theme=transparent)
 
 
