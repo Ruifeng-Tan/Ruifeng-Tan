@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 📫 Feel free to contact me at: rtan474@connect.hkust-gz.edu.cn.
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ruifeng-Tan&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruifeng-Tan&layout=compact)](https://github.com/Ruifeng-Tan/github-readme-stats)
+![Ruifeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruifeng-Tan&show_icons=true&theme=transparent)
 
 
