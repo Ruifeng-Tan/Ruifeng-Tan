@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 My current interest is in battery informatics.
+- 🌱 Check my Google scholar for my recent research: https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AC6lMd8PIH28jI9lFlL_C9WwIrKkPBVFLJ4Q4yxwypYTF9x3S1TySXmdp1jXnovKUUB0Hef-DqMoRood9idOPGrsI-ZUPl0&user=XAGG2pIAAAAJ
 - 📫 Feel free to contact me at: rtan474@connect.hkust-gz.edu.cn.
 
 
