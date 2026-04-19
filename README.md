@@ -1,4 +1,4 @@
-### Hi there 👋
+### Biography
 
 <!--
 **Ruifeng-Tan/Ruifeng-Tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 My current interest is in battery informatics.
-- 🌱 Check my Google scholar for my recent research: [Link](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AC6lMd8PIH28jI9lFlL_C9WwIrKkPBVFLJ4Q4yxwypYTF9x3S1TySXmdp1jXnovKUUB0Hef-DqMoRood9idOPGrsI-ZUPl0&user=XAGG2pIAAAAJ)
-- 📫 Feel free to contact me at: rtan474@connect.hkust-gz.edu.cn.
+Ruifeng Tan is a fourth-year PhD student at the Sustainable Energy and Environment Thrust of The Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof. Tong-Yi Zhang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHANG-Tongyi/mezhangt), [Prof. Jiaqiang Huang](https://seejhuang.people.ust.hk/), and [Prof. Jia Li](https://sites.google.com/view/lijia). Previously, he obtained his B.Eng. in Computer Science and Technology from Wuhan University in 2022.
+- 🔭 His current interest is in battery informatics.
+- 🌱 Check his Google scholar for his recent research: [Link](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AC6lMd8PIH28jI9lFlL_C9WwIrKkPBVFLJ4Q4yxwypYTF9x3S1TySXmdp1jXnovKUUB0Hef-DqMoRood9idOPGrsI-ZUPl0&user=XAGG2pIAAAAJ)
+- 📫 Feel free to contact him at: rtan474@connect.hkust-gz.edu.cn.
 
 
 
